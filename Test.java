@@ -9,9 +9,6 @@ System.out.println("BEYOND Max DOUBLE? => "+i+"aksjdhakshjd lkj");
 }
 asdasdas
 System.out.println("BEYOND Max DOUBLE? => "+i);asdasdasd
-<<<<<<< HEAD
-asdasdssssssss;oeirytp9 qe98tp98
-=======
 asdasd
 }asdasd
 >>>>>>> 67073da0d40faccf5daf42feccc6cd44deefd397
